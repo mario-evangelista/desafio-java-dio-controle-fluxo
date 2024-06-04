@@ -20,13 +20,13 @@ Para executar o código deste desafio, você precisará de:
 1. Clone este repositório em seu diretório local:
 
 ```bash
-git clone https://github.com/seu-nome-de-usuario/DesafioControleFluxo.git
+git clone https://github.com/mario-evangelista/desafio-java-dio-controle-fluxo.git
 ```
 
 2. Acesse o diretório clonado:
 
 ```bash
-cd DesafioControleFluxo
+cd controle-fluxo
 ```
 
 **4. Compilando o Código**
