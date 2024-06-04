@@ -81,13 +81,12 @@ Sinta-se à vontade para contribuir com este projeto! Envie suas sugestões, cor
 
 Agradecemos a todos que contribuíram para este projeto e esperamos que ele seja útil para você aprender sobre controle de fluxo em Java!
 
+
 ## Contato
 
 Para mais informações, entre em contato através do email: mario@gmail.com
 
-<br>
-**Meu Perfil na DIO:** [https://www.dio.me/users/mariojbe] (https://www.dio.me/users/mariojbe)
-**Meu Perfil na Alura:** [https://www.dio.me/users/mariojbe](https://www.dio.me/users/mariojbe)
+**Meu Perfil na DIO:** [https://cursos.alura.com.br/user/mariojbe](https://cursos.alura.com.br/user/mariojbe)
 
 <br>
 Developed by Mário Evangelista
