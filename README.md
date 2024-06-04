@@ -80,3 +80,13 @@ Sinta-se à vontade para contribuir com este projeto! Envie suas sugestões, cor
 **10. Agradecimentos**
 
 Agradecemos a todos que contribuíram para este projeto e esperamos que ele seja útil para você aprender sobre controle de fluxo em Java!
+
+## Contato
+
+Para mais informações, entre em contato através do email: mario@gmail.com
+
+<br>
+**Meu Perfil na DIO:** [https://www.dio.me/users/mariojbe](https://www.dio.me/users/mariojbe)
+
+<br>
+Developed by Mário Evangelista
