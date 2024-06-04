@@ -86,7 +86,7 @@ Agradecemos a todos que contribuíram para este projeto e esperamos que ele seja
 
 Para mais informações, entre em contato através do email: mario@gmail.com
 
-**Meu Perfil na DIO:** [https://cursos.alura.com.br/user/mariojbe](https://cursos.alura.com.br/user/mariojbe)
+**Meu Perfil na DIO:** [https://www.dio.me/users/mariojbe](https://www.dio.me/users/mariojbe)
 
 <br>
 Developed by Mário Evangelista
