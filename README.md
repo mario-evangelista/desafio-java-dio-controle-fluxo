@@ -87,6 +87,7 @@ Para mais informações, entre em contato através do email: mario@gmail.com
 
 <br>
 **Meu Perfil na DIO:** [https://www.dio.me/users/mariojbe] (https://www.dio.me/users/mariojbe)
+**Meu Perfil na Alura:** [https://www.dio.me/users/mariojbe](https://www.dio.me/users/mariojbe)
 
 <br>
 Developed by Mário Evangelista
